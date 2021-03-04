@@ -1,6 +1,6 @@
 # Documentação de API de games teste
 Esta api foi desenvolvida referente ao treinamento de desenvolvimento de API
-##Endpoint
+##Endpoints
 ### GET /games
 Esse endpoint é responsável por retornar todos os jogos cadastrados.
 ####Parametros
@@ -46,8 +46,8 @@ Exemplo:
 Esse endpoint é responsável por fazer o processo de login
 ####Parametros
 
-Email : E-mail do Usuário cadastrado no sistema
-Password : senha do usuário cadastrado.
+email : E-mail do Usuário cadastrado no sistema
+password : senha do usuário cadastrado.
 
 ```
 {
